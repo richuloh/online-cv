@@ -67,17 +67,21 @@ education:
 #      details:
 
 experiences:
-    - role: Resident
-      time: 2020 - Present
-      company: Seoul National University Hospital, South Koreaaaaaaaaaaaaaaaaaaaaaaaaa
-       
-     - role: Public health doctor
-       time: 2017 - 2020
-       company: Public health center, South Korea
-   
-     - role: Intern
-       time: 2016 - 2017
-       company: Seoul National University Hospital, South Korea
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
     
   
 
