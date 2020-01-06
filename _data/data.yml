@@ -70,22 +70,7 @@ education:
  #       Describe your study here lorem ipsum dolor sit amet, consectetuer
  #        - Bullet point
 experiences:
-    - role: Resident
-      time: 2020 - Present
-      company: Seoul National University Hospital(SNUH), South Korea
-      details: |
-          - Ophthalmology
-     - role: Public health doctor
-      time: 2017-2020
-      company: Public health center
-      details: |
-        - Pochoen, Gyeongi
-        - Shinan, Jeonnam
-      - role: Intern
-      time: 2016 - 2017
-      company: Seoul National University Hospital(SNUH), South Korea
-      details: |
- 
+     
 
 projects:
     title: Projects
@@ -136,7 +121,7 @@ publications:
   #      authors: Edgar T. Irons
  #       conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
+skills:
     #title: Skills &amp; Proficiency
 
    # toolset:
