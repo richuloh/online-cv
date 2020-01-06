@@ -67,7 +67,7 @@ education:
 #      details:
 
 experiences:
-    - role: Lead Developer
+    - role: Resident Doctor
       time: 2020 - Present
       company: Seoul National University Hospital, South Korea
       details: |
@@ -78,7 +78,7 @@ experiences:
       time: 2017 - 2020
       company: Public health center, South Korea
       details: |
-        Mandatory Military service for 3 years.
+        Mandatory Military Service for 3 years.
           - Pocheon, Gyeongi
           - Shinan, Jeonnam
     - role: Intern Doctor
@@ -91,10 +91,8 @@ experiences:
 
 projects:
     title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
+      No project yet
 #    assignments:
 #      - title: Velocity
 #        link: "#hook"
@@ -118,10 +116,8 @@ projects:
 
 publications:
     title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
+    intro: |
+      No problication yet
 #    papers:
  #     - title: The Art of Computer Programming
  #       link: "#"
