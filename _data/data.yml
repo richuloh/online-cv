@@ -60,11 +60,11 @@ education:
     - degree: MSc in Bioinformatics & Statistics
       university: Korean National Open University
       time: 2017 - 2020
-      details:
+#      details:
     - degree: BSc in Medicine
       university: Seoul National University
       time: 2010 - 2016
-      details:
+#      details:
 
 experiences:
     - role: Resident
