@@ -16,13 +16,14 @@ sidebar:
     phone: #012 345 6789
     website: #blog.webjeda.com #do not add http://
     linkedin: #alandoe
-    github: #sharu725
+    github: richuloh
     gitlab:
     bitbucket:
-    twitter: '#@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    #인스타, 페이스북 추가하고 싶은데...
 
     languages:
       - idiom: Korean
@@ -35,13 +36,13 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Guitar
         link:
 
-      - item: Snowboarding
+      - item: Golf
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
