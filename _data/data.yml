@@ -70,7 +70,21 @@ education:
  #       Describe your study here lorem ipsum dolor sit amet, consectetuer
  #        - Bullet point
 experiences:
+     - role: Resident
+      time: 2020 - Present
+      company: Seoul National University Hospital(SNUH), South Korea
+      details: |
      
+     - role: Public health doctor
+      time: 2017-2020
+      company: Public health center
+      details: |
+      
+     - role: Intern
+      time: 2016 - 2017
+      company: Seoul National University Hospital(SNUH), South Korea
+      details: |
+
 
 projects:
     title: Projects
