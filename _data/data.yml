@@ -87,8 +87,8 @@ experiences:
       details: |
  
 
-#projects:
-#    title: Projects
+projects:
+    title: Projects
 #    intro: >
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
