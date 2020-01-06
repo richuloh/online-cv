@@ -60,14 +60,27 @@ education:
     - degree: MSc in Bioinformatics & Statistics
       university: Korean National Open University
       time: 2017 - 2020
-      details: |
+      details:
       Statistics, Deep Learning, Machine Learning
     - degree: BSc in Medicine
       university: Seoul National University
       time: 2010 - 2016
-      details: |
+      details:
 
 experiences:
+    - role: Resident
+       time: 2020 - Present
+       company: Seoul National University Hospital (SNUH), South Korea
+     - role: Public health doctor
+       time: 2017 - 2020
+       company: Public health center, South Korea
+       details: 
+   
+     - role: Intern
+       time: 2016 - 2017
+       company: Seoul National University Hospital (SNUH), South Korea
+       details: 
+    
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
