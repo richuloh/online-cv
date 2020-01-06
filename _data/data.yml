@@ -62,13 +62,11 @@ education:
       time: 2017 - 2020
       details: |
         Statistics, Deep Learning, Machine Learning
-#          - Bullet point
     - degree: BSc in Medicine
       university: Seoul National University
       time: 2010 - 2016
       details: |
- #       Describe your study here lorem ipsum dolor sit amet, consectetuer
- #        - Bullet point
+
 experiences:
      - role: Resident
        time: 2020 - Present
@@ -76,8 +74,8 @@ experiences:
        details: |
      
      - role: Public health doctor
-       time: 2017-2020
-       company: Public health center
+       time: 2017 - 2020
+       company: Public health center, South Korea
        details: |
       
      - role: Intern
