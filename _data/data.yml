@@ -60,7 +60,7 @@ education:
     - degree: MSc in Bioinformatics & Statistics
       university: Korean National Open University
       time: 2017 - 2020
-      details:
+      details: |
       Statistics, Deep Learning, Machine Learning
     - degree: BSc in Medicine
       university: Seoul National University
