@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       Hello, My name is Richul Oh. I'm currently a ophthalmology resident doctor in Seoul National University Hospital, South Korea. I'm very interested in clinical resarch, especially applying AI to the field of opthalmology, such as Deep Learning and Machine Learning. Feel free to contact me! Thank you! 
+       Hello, My name is Richul Oh. I'm currently an ophthalmology resident doctor in Seoul National University Hospital, South Korea. I'm very interested in clinical resarch, especially applying AI to the field of opthalmology, such as Deep Learning and Machine Learning. Feel free to contact me! Thank you! 
 
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
@@ -61,7 +61,7 @@ education:
       university: Korean National Open University
       time: 2017 - 2020
       details: |
-        Statistics, Deep Learning, Machine Learning
+      Statistics, Deep Learning, Machine Learning
     - degree: BSc in Medicine
       university: Seoul National University
       time: 2010 - 2016
@@ -70,17 +70,20 @@ education:
 experiences:
      - role: Resident
        time: 2020 - Present
-       company: Seoul National University Hospital(SNUH), South Korea
+       company: Seoul National University Hospital (SNUH), South Korea
        details: |
      
      - role: Public health doctor
        time: 2017 - 2020
        company: Public health center, South Korea
        details: |
+         - Pochoen, Gyeongi
+         - Shinan, Jeonnam
+
       
      - role: Intern
        time: 2016 - 2017
-       company: Seoul National University Hospital(SNUH), South Korea
+       company: Seoul National University Hospital (SNUH), South Korea
        details: |
 
 
